@@ -15,9 +15,10 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 [Click Here to View Live Preview](https://amanovishnu.github.io/Weather-App/index.html)
 
 ### Sample-Image
+![Search1](sample/sample1.png)
 ![Homepage](sample/sample.png)
 
-![Search1](sample/sample1.png)
+
 ![Search2](sample/sample2.png)
 ![Search3](sample/sample3.png)
 ![Search4](sample/sample4.png)
