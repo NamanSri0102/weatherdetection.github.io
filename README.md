@@ -11,9 +11,6 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - In the background the app also shows the picture which is according to the weather
 
 
-### Live-Preview
-[Click Here to View Live Preview](https://amanovishnu.github.io/Weather-App/index.html)
-
 ### Sample-Image
 ![Search1](sample/sample1.png)
 ![Homepage](sample/sample.png)
